@@ -1,2 +1,2 @@
 # wtl
-while true learn
+While True: Learn()
